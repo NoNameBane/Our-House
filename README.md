@@ -1,7 +1,7 @@
 # Our House
  Srver: ourhouse.my.pebble.host
  
- BlueMap: 192.99.172.198:8018
+ BlueMap: 192.99.172.198:8108
 
 This is the base modpack required for the amall community server "Our House"
 
