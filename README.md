@@ -1,5 +1,5 @@
 # Our House
- Srrver: ourhouse.my.pebble.host
+ Srver: ourhouse.my.pebble.host
  
  BlueMap: 192.99.172.198:8018
 
